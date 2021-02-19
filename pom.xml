@@ -47,8 +47,8 @@
 				<artifactId>maven-compiler-plugin</artifactId>
 				<version>${mavencompiler.version}</version>
 				<configuration>
-					<source>1.11</source>
-					<target>1.11</target>
+					<source>11</source>
+					<target>11</target>
 				</configuration>
 			</plugin>
 			<!-- Build an executable JAR -->
@@ -112,8 +112,8 @@
 		<maven.failsafe.plugin.version>2.22.0</maven.failsafe.plugin.version>
 		<mockito.version>2.22.0</mockito.version>
 		<mavencompiler.version>3.8.0</mavencompiler.version>
-		<maven.compiler.source>1.11</maven.compiler.source>
-		<maven.compiler.target>1.11</maven.compiler.target>
+		<maven.compiler.source>11</maven.compiler.source>
+		<maven.compiler.target>11</maven.compiler.target>
 		<start-class>com.restcalculator.app.app</start-class>		
 		
 		<sonar.projectKey>josemolina2014_restcalculator</sonar.projectKey>
