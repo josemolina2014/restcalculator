@@ -12,8 +12,8 @@ steps:
 
 - task: SonarCloudPrepare@1
   inputs:
-    SonarCloud: 'sonar_cloud_demo'
-    organization: 'eidermauricio'
+    SonarCloud: 'Sonar_cloud_demo'
+    organization: 'demosonar'
     scannerMode: 'Other'
 
 #- task: Maven@3
