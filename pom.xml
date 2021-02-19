@@ -114,8 +114,7 @@
 		<mavencompiler.version>3.8.0</mavencompiler.version>
 		<maven.compiler.source>1.11</maven.compiler.source>
 		<maven.compiler.target>1.11</maven.compiler.target>
-		<start-class>com.restcalculator.app.app</start-class>
-		
+		<start-class>com.restcalculator.app.app</start-class>		
 		
 		<sonar.projectKey>josemolina2014_restcalculator</sonar.projectKey>
 		<sonar.organization>josemolina2014</sonar.organization>
